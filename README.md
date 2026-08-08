@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
 ## String
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
