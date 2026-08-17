@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
 ## String
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
