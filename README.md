@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
 |  |
 | ------- |
