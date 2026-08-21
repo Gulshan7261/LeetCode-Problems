@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0136-single-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
