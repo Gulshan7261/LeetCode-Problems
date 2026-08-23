@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
