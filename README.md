@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
