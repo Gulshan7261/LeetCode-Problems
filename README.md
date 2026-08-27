@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
