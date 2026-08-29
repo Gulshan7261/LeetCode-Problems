@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0258-add-digits) |
 ## Bit Manipulation
@@ -130,5 +132,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
