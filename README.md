@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
+| [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
