@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
