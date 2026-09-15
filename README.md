@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0541-reverse-string-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
 ## Backtracking
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0541-reverse-string-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
