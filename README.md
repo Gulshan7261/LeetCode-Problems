@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0372-super-pow](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0372-super-pow](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0372-super-pow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
