@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0372-super-pow](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [1609-even-odd-tree](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 ## Greedy
 |  |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0372-super-pow) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
