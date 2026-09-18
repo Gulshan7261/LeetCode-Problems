@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
 ## Backtracking
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
