@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
+| [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
