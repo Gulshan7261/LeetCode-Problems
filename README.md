@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1154-day-of-the-year) |
+| [1328-break-a-palindrome](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1328-break-a-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
+| [1328-break-a-palindrome](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1328-break-a-palindrome) |
 ## Number Theory
 |  |
 | ------- |
