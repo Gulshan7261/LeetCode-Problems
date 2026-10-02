@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
