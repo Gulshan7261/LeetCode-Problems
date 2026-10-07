@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Hash Table
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Floyd's Cycle Finding Algorithm
