@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -304,8 +307,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
