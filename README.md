@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0542-01-matrix](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0542-01-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0655-print-binary-tree](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0655-print-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 ## Greedy
