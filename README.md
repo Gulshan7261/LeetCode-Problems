@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0542-01-matrix](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
