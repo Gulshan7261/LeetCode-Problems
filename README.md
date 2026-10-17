@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0608-tree-node) |
+| [1068-product-sales-analysis-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1280-students-and-examinations) |
 ## Stack
