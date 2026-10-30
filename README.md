@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0608-tree-node) |
 | [1068-product-sales-analysis-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1251-average-selling-price) |
