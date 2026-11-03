@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1328-break-a-palindrome](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1328-break-a-palindrome) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0704-binary-search) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Quicksort
 |  |
 | ------- |
@@ -355,4 +358,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Hash Function
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Z Algorithm
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
