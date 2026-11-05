@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0079-word-search) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Search Tree
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
