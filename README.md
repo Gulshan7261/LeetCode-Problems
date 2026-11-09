@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0204-count-primes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
