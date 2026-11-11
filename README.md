@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1729-find-followers-count](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1729-find-followers-count) |
 | [1934-confirmation-rate](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1934-confirmation-rate) |
 ## Stack
 |  |
