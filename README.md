@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
