@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
+| [0664-strange-printer](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [0709-to-lower-case](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/1154-day-of-the-year) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0664-strange-printer](https://github.com/Gulshan7261/LeetCode-Problems/tree/master/0664-strange-printer) |
 ## Tree
 |  |
 | ------- |
